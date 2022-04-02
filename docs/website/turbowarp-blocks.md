@@ -18,7 +18,8 @@ These blocks are "compatible" with Scratch because they're actually just modifie
 :::warning
 Every block beyond this warning is **incompatible** with Scratch. Projects that using them **can not** be uploaded to the Scratch website. If you don't use any TurboWarp-exclusive blocks, then there should be no issue with making your project in TurboWarp and uploading it to Scratch.
 
-**We do not recommend using these blocks. No new blocks will be added in the forseeable future**.
+**We do not recommend using these blocks.
+New blocks will be added in the forseeable future**.
 :::
 
 ## last key pressed {#last-key-pressed}
@@ -27,7 +28,7 @@ Every block beyond this warning is **incompatible** with Scratch. Projects that 
 
 It tells you the last key that was pressed. It's intended to be used something like this:
 
-![when any key pressed, do something with last key pressed](./assets/how-to-use-last-key-pressed.svg)
+![when any key pressed, do something with last key pressed](./assets/how-to-use-last-key-pressed.svg)(https://i.ytimg.com/vi/yS1uu6iMpjM/maxresdefault.jpg)
 
 ## mouse button down? {#mouse-button-down}
 
